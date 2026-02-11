@@ -17,24 +17,24 @@ This project simulates real-world banking operations such as account creation, d
 
 ## ✨ Features
 
-✅ Create New Account  
-✅ Display All Accounts  
-✅ Search Account by Account Number  
-✅ Deposit Money  
-✅ Withdraw Money (with balance validation)  
-✅ Menu-Driven Interface  
-✅ Dynamic Account Storage using STL Vector  
+🔻 Create New Account  
+🔻 Display All Accounts  
+🔻 Search Account by Account Number  
+🔻 Deposit Money  
+🔻 Withdraw Money (with balance validation)  
+🔻 Menu-Driven Interface  
+🔻Dynamic Account Storage using STL Vector  
 
 ---
 
 ## 🛠 Technologies Used
 
-- C++
-- Object-Oriented Programming
-- STL (vector)
-- Pointers
-- Control Structures
-- Menu-driven Console Application
+➡️ C++
+➡️ Object-Oriented Programming
+➡️STL (vector)
+➡️Pointers
+➡️ Control Structures
+➡️ Menu-driven Console Application
 
 ---
 
@@ -48,7 +48,7 @@ This project simulates real-world banking operations such as account creation, d
 
 ---
 
-## 📂 Project Structure
+## ⭐ If you like this project, give it a star!
 
 
 
